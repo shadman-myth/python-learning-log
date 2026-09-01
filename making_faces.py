@@ -5,6 +5,6 @@ def convert(text):
 def main():
     user_input = input("Enter your text: ")
     converted_text = convert(user_input)
-    print(converted_text)
+    print((converted_text).title())
 
 main()    
