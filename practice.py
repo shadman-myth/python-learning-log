@@ -15,3 +15,5 @@ def square (n):
     return pow(n, 2)
 
 main()
+print("A".isupper())
+print("a".isupper())
